@@ -1,2 +1,16 @@
-
+*{
+	margin:0px;
+	padding:0px;
+}
 /* Your CSS Code here. */
+.nav-elements{
+	text-decoration:none;
+	text-align:end;
+	background-color:blue;
+	color:white;
+	margin-inline:20px;
+}
+.vid{
+	width:80%;
+	height:300px;
+}
